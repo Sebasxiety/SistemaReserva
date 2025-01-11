@@ -85,6 +85,7 @@
             this.btnMesas.Text = "Mesas";
             this.btnMesas.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnMesas.UseVisualStyleBackColor = true;
+            this.btnMesas.Click += new System.EventHandler(this.btnMesas_Click);
             // 
             // btnReservaciones
             // 
@@ -100,6 +101,7 @@
             this.btnReservaciones.Text = "Reservaciones";
             this.btnReservaciones.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnReservaciones.UseVisualStyleBackColor = true;
+            this.btnReservaciones.Click += new System.EventHandler(this.btnReservaciones_Click);
             // 
             // btnClientes
             // 
@@ -115,6 +117,7 @@
             this.btnClientes.Text = "Clientes";
             this.btnClientes.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnClientes.UseVisualStyleBackColor = true;
+            this.btnClientes.Click += new System.EventHandler(this.btnClientes_Click);
             // 
             // MenuInicio
             // 

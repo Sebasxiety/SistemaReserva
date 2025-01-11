@@ -42,10 +42,10 @@ namespace SistemaReserva.Logica
             }
         }
 
-        public List<string> ConsultarClientes()
+        public List<dto_Clientes> ConsultarClientes()
         {
             string cadenaConsulta = "SELECT ClienteID, Nombre, Telefono, Email FROM Clientes";
-            List<string> listaClientes = new List<string>();
+            List<dto_Clientes> listaClientes = new List<dto_Clientes>();
 
             using (SqlConnection con = conexion.Conectarse())
             {
@@ -55,10 +55,13 @@ namespace SistemaReserva.Logica
 
                 while (reader.Read())
                 {
-                    string cliente = reader["ClienteID"].ToString() + " - "
-                        + reader["Nombre"].ToString() + " - "
-                        + reader["Telefono"].ToString() + " - "
-                        + reader["Email"].ToString();
+                    dto_Clientes cliente = new dto_Clientes
+                    {
+                        ClienteID = Convert.ToInt32(reader["ClienteID"]),
+                        Nombre = reader["Nombre"].ToString(),
+                        Telefono = reader["Telefono"].ToString(),
+                        Email = reader["Email"].ToString()
+                    };
                     listaClientes.Add(cliente);
                 }
             }

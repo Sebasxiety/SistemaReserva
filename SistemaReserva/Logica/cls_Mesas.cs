@@ -42,10 +42,11 @@ namespace SistemaReserva.Logica
             }
         }
 
-        public List<string> ConsultarMesas()
+
+        public List<dto_Mesas> Listar()
         {
             string cadenaConsulta = "SELECT MesaID, NumeroMesa, Capacidad, Ubicacion FROM Mesas";
-            List<string> listaMesas = new List<string>();
+            List<dto_Mesas> listaMesas = new List<dto_Mesas>();
 
             using (SqlConnection con = conexion.Conectarse())
             {
@@ -55,10 +56,13 @@ namespace SistemaReserva.Logica
 
                 while (reader.Read())
                 {
-                    string mesa = reader["MesaID"].ToString() + " - Mesa "
-                        + reader["NumeroMesa"].ToString() + " - Capacidad: "
-                        + reader["Capacidad"].ToString() + " - Ubicación: "
-                        + reader["Ubicacion"].ToString();
+                    dto_Mesas mesa = new dto_Mesas
+                    {
+                        MesaID = Convert.ToInt32(reader["MesaID"]),
+                        NumeroMesa = Convert.ToInt32(reader["NumeroMesa"]),
+                        Capacidad = Convert.ToInt32(reader["Capacidad"]),
+                        Ubicacion = reader["Ubicacion"].ToString()
+                    };
                     listaMesas.Add(mesa);
                 }
             }

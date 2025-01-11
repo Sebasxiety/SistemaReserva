@@ -104,6 +104,7 @@
             this.btnRegistrar.TabIndex = 20;
             this.btnRegistrar.Text = "Registrar";
             this.btnRegistrar.UseVisualStyleBackColor = true;
+            this.btnRegistrar.Click += new System.EventHandler(this.btnRegistrar_Click);
             // 
             // btnEditar
             // 
@@ -114,6 +115,7 @@
             this.btnEditar.TabIndex = 21;
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = true;
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
             // 
             // dgvDatos
             // 
@@ -139,6 +141,7 @@
             this.dgvDatos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvDatos.Size = new System.Drawing.Size(800, 259);
             this.dgvDatos.TabIndex = 22;
+            this.dgvDatos.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDatos_CellClick);
             // 
             // frmMesas
             // 
@@ -156,6 +159,7 @@
             this.Controls.Add(this.label3);
             this.Name = "frmMesas";
             this.Text = "frmMesas";
+            this.Load += new System.EventHandler(this.frmMesas_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvDatos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

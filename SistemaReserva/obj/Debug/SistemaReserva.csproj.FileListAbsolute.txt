@@ -1,0 +1,13 @@
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\bin\Debug\SistemaReserva.exe.config
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\bin\Debug\SistemaReserva.exe
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\bin\Debug\SistemaReserva.pdb
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\obj\Debug\SistemaReserva.csproj.AssemblyReference.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\obj\Debug\SistemaReserva.Presentacion.frmClientes.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\obj\Debug\SistemaReserva.Presentacion.frmMesas.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\obj\Debug\SistemaReserva.Presentacion.frmReservaciones.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\obj\Debug\SistemaReserva.MenuInicio.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\obj\Debug\SistemaReserva.Properties.Resources.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\obj\Debug\SistemaReserva.csproj.GenerateResource.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\obj\Debug\SistemaReserva.csproj.CoreCompileInputs.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\obj\Debug\SistemaReserva.exe
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\SistemaReserva\SistemaReserva\obj\Debug\SistemaReserva.pdb

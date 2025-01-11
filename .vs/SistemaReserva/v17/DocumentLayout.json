@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\presentacion\\frmreservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\presentacion\\frmreservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\presentacion\\frmreservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\presentacion\\frmreservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\logica\\cls_reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\logica\\cls_reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\presentacion\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\presentacion\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\presentacion\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\presentacion\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\presentacion\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\presentacion\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\logica\\cls_reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\logica\\cls_reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\logica\\cls_mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,24 +35,32 @@
       "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\logica\\cls_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\datos\\dto_mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\datos\\dto_mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\datos\\dto_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\datos\\dto_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\presentacion\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\presentacion\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\presentacion\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\presentacion\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\datos\\dto_reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\datos\\dto_reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\datos\\dto_mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\datos\\dto_mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\datos\\dto_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\datos\\dto_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sistemareserva\\sistemareserva\\datos\\dto_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D868CA21-D858-4D00-BBB8-0506D5E793EB}|SistemaReserva\\SistemaReserva.csproj|solutionrelative:sistemareserva\\datos\\dto_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,32 +75,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmReservaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\frmReservaciones.cs",
+              "RelativeDocumentMoniker": "SistemaReserva\\Presentacion\\frmReservaciones.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\frmReservaciones.cs*",
+              "RelativeToolTip": "SistemaReserva\\Presentacion\\frmReservaciones.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwIgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:23:25.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "frmClientes.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\frmClientes.cs",
               "RelativeDocumentMoniker": "SistemaReserva\\Presentacion\\frmClientes.cs",
               "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\frmClientes.cs",
               "RelativeToolTip": "SistemaReserva\\Presentacion\\frmClientes.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAAwHAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAiwHgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T01:06:36.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "cls_Reservaciones.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Logica\\cls_Reservaciones.cs",
               "RelativeDocumentMoniker": "SistemaReserva\\Logica\\cls_Reservaciones.cs",
               "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Logica\\cls_Reservaciones.cs",
               "RelativeToolTip": "SistemaReserva\\Logica\\cls_Reservaciones.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAwEUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T00:42:53.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "cls_Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Logica\\cls_Clientes.cs",
+              "RelativeDocumentMoniker": "SistemaReserva\\Logica\\cls_Clientes.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Logica\\cls_Clientes.cs",
+              "RelativeToolTip": "SistemaReserva\\Logica\\cls_Clientes.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:43:05.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "frmMesas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\frmMesas.cs",
               "RelativeDocumentMoniker": "SistemaReserva\\Presentacion\\frmMesas.cs",
@@ -104,19 +138,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "frmReservaciones.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\frmReservaciones.cs",
               "RelativeDocumentMoniker": "SistemaReserva\\Presentacion\\frmReservaciones.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\frmReservaciones.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaReserva\\Presentacion\\frmReservaciones.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\frmReservaciones.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "SistemaReserva\\Presentacion\\frmReservaciones.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T00:42:17.387Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "frmMesas.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\frmMesas.cs",
+              "RelativeDocumentMoniker": "SistemaReserva\\Presentacion\\frmMesas.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\frmMesas.cs",
+              "RelativeToolTip": "SistemaReserva\\Presentacion\\frmMesas.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:21:27.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dto_Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Datos\\dto_Conexion.cs",
+              "RelativeDocumentMoniker": "SistemaReserva\\Datos\\dto_Conexion.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Datos\\dto_Conexion.cs",
+              "RelativeToolTip": "SistemaReserva\\Datos\\dto_Conexion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:43:21.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dto_Mesas.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Datos\\dto_Mesas.cs",
+              "RelativeDocumentMoniker": "SistemaReserva\\Datos\\dto_Mesas.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Datos\\dto_Mesas.cs",
+              "RelativeToolTip": "SistemaReserva\\Datos\\dto_Mesas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:43:40.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cls_Mesas.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Logica\\cls_Mesas.cs",
+              "RelativeDocumentMoniker": "SistemaReserva\\Logica\\cls_Mesas.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Logica\\cls_Mesas.cs",
+              "RelativeToolTip": "SistemaReserva\\Logica\\cls_Mesas.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:42:41.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuInicio.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\MenuInicio.cs",
+              "RelativeDocumentMoniker": "SistemaReserva\\Presentacion\\MenuInicio.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\MenuInicio.cs",
+              "RelativeToolTip": "SistemaReserva\\Presentacion\\MenuInicio.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:57:02.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "frmClientes.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\frmClientes.cs",
               "RelativeDocumentMoniker": "SistemaReserva\\Presentacion\\frmClientes.cs",
@@ -128,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "MenuInicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\MenuInicio.cs",
               "RelativeDocumentMoniker": "SistemaReserva\\Presentacion\\MenuInicio.cs",
@@ -140,46 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "cls_Mesas.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Logica\\cls_Mesas.cs",
-              "RelativeDocumentMoniker": "SistemaReserva\\Logica\\cls_Mesas.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Logica\\cls_Mesas.cs",
-              "RelativeToolTip": "SistemaReserva\\Logica\\cls_Mesas.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T00:42:41.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "cls_Clientes.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Logica\\cls_Clientes.cs",
-              "RelativeDocumentMoniker": "SistemaReserva\\Logica\\cls_Clientes.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Logica\\cls_Clientes.cs",
-              "RelativeToolTip": "SistemaReserva\\Logica\\cls_Clientes.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T00:43:05.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MenuInicio.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\MenuInicio.cs",
-              "RelativeDocumentMoniker": "SistemaReserva\\Presentacion\\MenuInicio.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Presentacion\\MenuInicio.cs",
-              "RelativeToolTip": "SistemaReserva\\Presentacion\\MenuInicio.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvxUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T00:57:02.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "dto_Reservaciones.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Datos\\dto_Reservaciones.cs",
               "RelativeDocumentMoniker": "SistemaReserva\\Datos\\dto_Reservaciones.cs",
@@ -192,20 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "dto_Mesas.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Datos\\dto_Mesas.cs",
-              "RelativeDocumentMoniker": "SistemaReserva\\Datos\\dto_Mesas.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Datos\\dto_Mesas.cs",
-              "RelativeToolTip": "SistemaReserva\\Datos\\dto_Mesas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T00:43:40.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "dto_Clientes.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Datos\\dto_Clientes.cs",
               "RelativeDocumentMoniker": "SistemaReserva\\Datos\\dto_Clientes.cs",
@@ -214,19 +261,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T00:43:50.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "dto_Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Datos\\dto_Conexion.cs",
-              "RelativeDocumentMoniker": "SistemaReserva\\Datos\\dto_Conexion.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\SistemaReserva\\SistemaReserva\\Datos\\dto_Conexion.cs",
-              "RelativeToolTip": "SistemaReserva\\Datos\\dto_Conexion.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T00:43:21.72Z",
               "EditorCaption": ""
             }
           ]

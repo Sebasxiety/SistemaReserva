@@ -44,10 +44,10 @@ namespace SistemaReserva.Logica
             }
         }
 
-        public List<string> ConsultarReservaciones()
+        public List<dto_Reservaciones> Listar()
         {
             string cadenaConsulta = "SELECT ReservacionID, MesaID, ClienteID, FechaHora, NumeroPersonas FROM Reservaciones";
-            List<string> listaReservaciones = new List<string>();
+            List<dto_Reservaciones> listaReservaciones = new List<dto_Reservaciones>();
 
             using (SqlConnection con = conexion.Conectarse())
             {
@@ -57,11 +57,14 @@ namespace SistemaReserva.Logica
 
                 while (reader.Read())
                 {
-                    string reservacion = reader["ReservacionID"].ToString() + " - Mesa: "
-                        + reader["MesaID"].ToString() + " - Cliente: "
-                        + reader["ClienteID"].ToString() + " - Fecha: "
-                        + reader["FechaHora"].ToString() + " - Personas: "
-                        + reader["NumeroPersonas"].ToString();
+                    dto_Reservaciones reservacion = new dto_Reservaciones
+                    {
+                        ReservacionID = Convert.ToInt32(reader["ReservacionID"]),
+                        MesaID = Convert.ToInt32(reader["MesaID"]),
+                        ClienteID = Convert.ToInt32(reader["ClienteID"]),
+                        FechaHora = Convert.ToDateTime(reader["FechaHora"]),
+                        NumeroPersonas = Convert.ToInt32(reader["NumeroPersonas"])
+                    };
                     listaReservaciones.Add(reservacion);
                 }
             }

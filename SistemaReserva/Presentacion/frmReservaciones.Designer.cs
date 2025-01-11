@@ -67,6 +67,7 @@
             this.dgvDatos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvDatos.Size = new System.Drawing.Size(800, 259);
             this.dgvDatos.TabIndex = 31;
+            this.dgvDatos.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDatos_CellClick);
             // 
             // btnEditar
             // 
@@ -77,6 +78,7 @@
             this.btnEditar.TabIndex = 30;
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = true;
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
             // 
             // btnRegistrar
             // 
@@ -87,6 +89,7 @@
             this.btnRegistrar.TabIndex = 29;
             this.btnRegistrar.Text = "Registrar";
             this.btnRegistrar.UseVisualStyleBackColor = true;
+            this.btnRegistrar.Click += new System.EventHandler(this.btnRegistrar_Click);
             // 
             // txtNumeroPersonas
             // 
@@ -180,6 +183,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmReservaciones";
             this.Text = "frmReservaciones";
+            this.Load += new System.EventHandler(this.frmReservaciones_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvDatos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

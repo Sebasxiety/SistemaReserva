@@ -45,6 +45,7 @@ namespace SistemaReserva.Presentacion
 
                 logicaClientes.ActualizarCliente(clienteID, cliente);
                 MessageBox.Show("Cliente actualizado exitosamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
                 LimpiarControles();
                 ActualizarDGV();
             }
@@ -58,6 +59,14 @@ namespace SistemaReserva.Presentacion
         {
             try
             {
+                if (string.IsNullOrWhiteSpace(txtNombre.Text) ||
+                    string.IsNullOrWhiteSpace(txtTelefono.Text) ||
+                    string.IsNullOrWhiteSpace(txtEmail.Text))
+                {
+                    MessageBox.Show("Todos los campos son obligatorios.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
                 dto_Clientes cliente = new dto_Clientes
                 {
                     Nombre = txtNombre.Text,
@@ -98,13 +107,12 @@ namespace SistemaReserva.Presentacion
         {
             try
             {
-                dgvDatos.Rows.Clear();
+             
                 var listaClientes = logicaClientes.ConsultarClientes();
-                foreach (var cliente in listaClientes)
-                {
-                    string[] datos = cliente.Split('-'); // Separar los datos concatenados
-                    dgvDatos.Rows.Add(datos);
-                }
+
+                
+                dgvDatos.DataSource = null; 
+                dgvDatos.DataSource = listaClientes;
             }
             catch (Exception ex)
             {

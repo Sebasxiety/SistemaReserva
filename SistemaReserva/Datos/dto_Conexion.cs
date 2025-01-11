@@ -13,7 +13,7 @@ namespace SistemaReserva.Datos
 
         public dto_Conexion()
         {
-            connectionString = "Server=.;Database=SistemaInventario;User Id=sa;Password=123456;";
+            connectionString = "Server=.;Database=SistemaReserva;User Id=sa;Password=123456;";
         }
 
         public SqlConnection Conectarse()

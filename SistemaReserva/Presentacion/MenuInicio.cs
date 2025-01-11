@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SistemaReserva.Presentacion;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,6 +21,24 @@ namespace SistemaReserva
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void btnClientes_Click(object sender, EventArgs e)
+        {
+            frmClientes frm = new frmClientes();
+            frm.ShowDialog();
+        }
+
+        private void btnReservaciones_Click(object sender, EventArgs e)
+        {
+            frmReservaciones frm = new frmReservaciones();
+            frm.ShowDialog();
+        }
+
+        private void btnMesas_Click(object sender, EventArgs e)
+        {
+            frmMesas frm = new frmMesas();
+            frm.ShowDialog();
         }
     }
 }
