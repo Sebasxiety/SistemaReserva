@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace SistemaReserva
 {
-    public partial class Form1 : Form
+    public partial class MenuInicio : Form
     {
-        public Form1()
+        public MenuInicio()
         {
             InitializeComponent();
+        }
+
+        private void btnCerrar_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
